@@ -5,7 +5,7 @@
 * - [x] 1.  Create Git Repository:
     * Create a new repository on your local machine or on a platform like GitHub.
     * Name the repository: `Multiplayer Pong Game`
-    * Navigate into the newly created directory: `cd "Multiplayer Pong Game"` (or the actual directory name if different)
+    * Navigate into the newly created directory: `cd "Multiplayer Pong Game"` 
 *  - [ ] 2.  Project Directory Setup:
     * Create subdirectories: `backend`, `frontend`
 *  - [ ] 3.  Backend Setup (Node.js, TypeScript, Socket.IO):
