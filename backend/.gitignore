@@ -1,0 +1,16 @@
+node_modules/
+
+dist/
+
+package-lock.json
+
+.env
+
+*.log
+
+.vscode/ # VS Code settings specific to backend
+.idea/   # IntelliJ/WebStorm settings
+.DS_Store # macOS specific
+npm-debug.log* # npm debug logs
+yarn-debug.log* # Yarn debug logs
+yarn-error.log* # Yarn error logs
