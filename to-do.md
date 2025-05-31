@@ -8,7 +8,7 @@
     * Navigate into the newly created directory: `cd "Multiplayer Pong Game"` 
 *  - [x] 2.  Project Directory Setup:
     * Create subdirectories: `backend`, `frontend`
-*  - [ ] 3.  Backend Setup (Node.js, TypeScript, Socket.IO):
+*  - [x] 3.  Backend Setup (Node.js, TypeScript, Socket.IO):
     * `cd backend`
     * `npm init -y`
     * `npm install express socket.io cors`
@@ -24,16 +24,16 @@
           }
         }
         ```
-*  - [ ] 4.  Frontend Setup (React, TypeScript, Socket.IO Client):
+*  - [x] 4.  Frontend Setup (React, TypeScript, Socket.IO Client):
     * `cd ../frontend`
     * `npx create-react-app . --template typescript` OR `npm create vite@latest . -- --template react-ts`
     * `npm install socket.io-client`
-*  - [ ] 5.  Initial Commit:
+*  - [x] 5.  Initial Commit:
     * `git init` (if you didn't initialize in step 1)
     * Create `.gitignore` (`node_modules`, etc.)
     * `git add .`
     * `git commit -m "Initial project setup"`
-*  - [ ] 6.  Core Planning:
+*  - [x] 6.  Core Planning:
     * **Backend:**
         * Basic server architecture, essential Socket.IO events (`connect`, `disconnect`, `paddle-move`, `ball-update`, `game-state`), core game state. Simplify if needed.
         * Game state should include player names.
